@@ -1,5 +1,6 @@
 <?php
 // This is sparta!
+// NONONONONON
 // This is the main page.
 if ($_COOKIE['login'] != 'true')
 {
